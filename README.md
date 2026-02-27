@@ -55,5 +55,5 @@ Crear una plataforma visual que transmita el estilo artístico del tatuador y fa
 **Kendall Campos Ramírez**
 
 - 💼 Portafolio: https://TU-PORTAFOLIO
-- 🐙 GitHub: https://github.com/TU-USUARIO
+- 🐙 GitHub: https://github.com/KendallCR20
 - 💼 LinkedIn: https://www.linkedin.com/in/kendall-campos-ram%C3%ADrez-b19416268/
