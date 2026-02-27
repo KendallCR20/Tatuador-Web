@@ -12,7 +12,7 @@ Sitio web informativo desarrollado para un tatuador profesional con el objetivo 
 
 ## 📸 Vista previa
 
-![Preview del proyecto](./preview.png)
+![Preview del proyecto](./preview.PNG)
 
 ---
 
