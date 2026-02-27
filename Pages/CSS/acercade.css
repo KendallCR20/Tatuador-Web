@@ -1,0 +1,183 @@
+:root {
+    --color-dark: #000000;
+    --color-light: #ffffff;
+
+
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    letter-spacing: .05rem;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+h2 {
+    font-size: 48px;
+    margin-bottom: 30px;
+}
+
+h5 {
+    margin-bottom: 0px;
+}
+
+p {
+    font-size: 18px;
+
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.member-details a ion-icon {
+    font-size: 22px;
+    color: #59595B;
+}
+
+section {
+    padding: 120px 0;
+}
+
+.bg-light-grey {
+    background-color: #BFC0C4;
+}
+
+.bg-dark {
+    background-color: #000000 !important;
+}
+
+.topmargin-xs {
+    margin-top: 15px !important;
+}
+
+.topmargin-sm {
+    margin-top: 30px !important;
+}
+
+.topmargin-lg {
+    margin-top: 60px !important;
+}
+
+.nav-link {
+    margin-left: 2rem;
+}
+
+.navbar {
+    min-height: 5rem;
+}
+
+.lead-xl {
+    font-size: 1.75rem;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+#hero {
+    background-image: url(/Pages/assets/images/WhatsApp\ Image\ 2023-07-27\ at\ 2.46.24\ PM.jpeg);
+
+    background-size: cover;
+    padding-top: 90px;
+    min-height: 700px;
+    color: #ffffff;
+}
+
+.content-center {
+    max-width: 800px;
+    margin: 0 auto 60px auto;
+    text-align: center;
+}
+
+.nosotros-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+}
+
+.nosotros-container img {
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s;
+    transition: all 0.8s;
+}
+
+.nosotros-container:hover img {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.nosotros-details {
+    position: absolute;
+    bottom: 25px;
+    left: 25px;
+    z-index: 9000;
+
+}
+
+.member-container {
+    position: relative;
+    margin: 10px 0;
+}
+
+.member-details {
+    position: absolute;
+    color: ffffff;
+    bottom: 0px;
+    left: 20px;
+}
+
+.member-details span {
+    font-size: 14px;
+
+}
+
+.member-details i {
+    padding: 0 5px;
+}
+
+#footer {
+    padding: 8opx 0;
+    text-align: center;
+    color: #ffffff;
+}
+
+#footer a {
+    color: #ffffff;
+}
+
+#footer a:hover {
+    color: #ffffff;
+}
+
+#footer .list-inline .list-inline-item {
+    padding: 10px 15px;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: normal;
+}
+
+.nosotros-details h2 {
+    font-size: 32px;
+}
+
+.nosotros-details h2 {
+    font-size: 30px;
+}
